@@ -1,0 +1,31 @@
+
+ .aboutUs{
+    /* margin-left: 200px; */
+    width: 30px;
+    margin-right: 20px;
+    color: white;
+    display: inline;
+   }
+  
+   .signIn{
+    width: 30px;
+    margin-right: 20px;
+    /* margin-left: 60%; */
+    color: white;
+   }
+  
+   .LogIn{
+    width: 30px;
+    margin-right: 20px;
+    color: white;
+   }
+  
+  
+   .menu{
+    margin-left: 60%;
+   }
+  
+   .contacUs{
+    margin-right:20px ;
+    width: 100px;
+   }
