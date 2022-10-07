@@ -1,6 +1,5 @@
 
  .aboutUs{
-    /* margin-left: 200px; */
     width: 30px;
     margin-right: 20px;
     color: white;
@@ -22,10 +21,10 @@
   
   
    .menu{
-    margin-left: 60%;
+    margin-left: 40%;
    }
   
    .contacUs{
-    margin-right:20px ;
-    width: 100px;
+    margin-right:10px ;
+    width: 10px;
    }
