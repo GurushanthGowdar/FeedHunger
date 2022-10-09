@@ -1,5 +1,12 @@
 body{
     background-color: #423f3f;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .image{
@@ -7,21 +14,28 @@ body{
     width: 100%;
     height: 100%;
     object-fit: fill;
-    /* transition: transform 0.5s ease-out; */
-     /* object-fit:; */
-    /* margin-left: 100px; */
-    /* background-color: aquamarine; */
-    /* border: 5pt solid aquamarine; */
+    display: flex;
 }
 
+.StativImageDiv{
+    width: 40%;
+    display: inline;
+    float: right;
+    margin-left: 60%;
+    height: 400px;
+}
+
+.staticImage{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
 
 .imageDiv{
     margin-top: 10%;
-    width: 50%;
+    width: 60%;
     margin-left: 80px;
     height: 500px;
-    /* transition: transform 0.5s ease-out; */
-    /* object-fit:fill; */
-    /* background-color: aquamarine; */
+    flex: 2;
     border: 5pt solid aquamarine;
 }

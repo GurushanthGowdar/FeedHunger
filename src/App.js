@@ -4,9 +4,9 @@ import classes from "./App.module.css"
 
 function App() {
   return (
-   <>
+    <React.Fragment>
    <BaseTemplate></BaseTemplate>
-   </>
+   </React.Fragment>
   );
 }
 

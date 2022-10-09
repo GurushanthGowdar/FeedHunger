@@ -1,0 +1,19 @@
+
+
+
+.container{
+    width: 50%;
+    margin-top: 40px;
+    height: fit-content;
+    margin-left: 5%;
+    border:3pt black solid;
+    display: flex inline;
+    flex-direction: row;
+    flex: 2;
+}
+.quote{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    line-height: 25px;
+    display: inline-block;
+}
